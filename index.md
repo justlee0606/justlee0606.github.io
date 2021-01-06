@@ -2,6 +2,8 @@
 
 I am a second year student studying **computer science** at *UC San Diego*. I am interested in backend development, robotics, and mobile app development. ~~I also enjoy grinding leetcode.~~
 
+![My Headshot](/img/headshot.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
