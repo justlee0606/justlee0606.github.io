@@ -16,6 +16,6 @@ My favorite hobbies include:
 - Netflix
 
 My goals for 2021:
-- [ ] Get a software engineering internship
-- [ ] Workout regularly
-- [ ] Learn a new programming language
+- [ ]  Get a software engineering internship
+- [ ]  Workout regularly
+- [ ]  Learn a new programming language
