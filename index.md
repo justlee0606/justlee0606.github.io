@@ -1,8 +1,6 @@
 # Justin Lee
 
-You can use the [editor on GitHub](https://github.com/justlee0606/justlee0606.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second year student studying **computer science** at *UC San Diego*. I am interested in backend development, robotics, and mobile app development. ~~I also enjoy grinding leetcode.~~
 
 ### Markdown
 
