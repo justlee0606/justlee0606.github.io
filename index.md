@@ -9,4 +9,13 @@ My favorite quote from Denzel Washington in *The Equalizer*:
 
 My favorite git command for team projects is `git blame`.  
 You can view my github profile and projects [here](https://github.com/justlee0606).  
-[Here](README.md) is more info about me.
+[Here](README.md) is more info about me.  
+My favorite hobbies include:
+- Soccer
+- Video games
+- Netflix
+
+My goals for 2021:
+- [ ] Get a software engineering internship
+- [ ] Workout regularly
+- [ ] Learn a new programming language
